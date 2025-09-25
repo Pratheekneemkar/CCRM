@@ -24,7 +24,7 @@ To compile and run the CCRM application from the command line, you will need to 
 ### **Steps to Run the Application:**
 
 1. **Clone the Repository**:  
-   git clone https://github.com/aryanarch/CCRM.git
+   git clone https://github.com/Pratheekneemkar/CCRM.git
 
 2. Compile the Application:  
    From the root directory of the project, run the following command. This compiles all source files and places the .class files in the bin directory, including the Oracle JDBC driver in the classpath.  
@@ -124,3 +124,4 @@ In an IDE, add \-ea to the "VM arguments" in your run configuration.
 
 * This project was created as part of the "Programming in Java" course on the Vityarthi portal.  
 * All code is original and written by Neemkar Sai Pratheek.
+
